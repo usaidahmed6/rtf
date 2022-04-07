@@ -1,0 +1,131 @@
+/* .App {
+  text-align: center;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#components-layout-demo-top-side-2 .logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.ant-row-rtl #components-layout-demo-top-side-2 .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
+.login-form{
+  padding-top: 60px !important;
+  background-color: rgb(243, 28, 28);
+  justify-content: center;
+  align-items: center;
+  border: 2px solid red;
+  border-radius: 10px;
+}
+.container{
+  margin-top: 100px;
+  width: 850px;
+  
+}
+
+.user{
+height: 100px;
+width: 100px;
+margin-left:370px ;
+margin-bottom: 20px;
+}
+.input{
+  margin-left: 200px;
+  width: 500px !important;
+  border-radius: 5px;
+}
+.input:focus{
+  background-color: gray;
+}
+.site-layout-background {
+  background: #fff;
+} */
+
+
+.h{
+  font-size: 50px;
+  margin-top: 20px;
+  text-align: center;
+}
+.logo-user{
+  display: block;
+  margin: auto !important;
+  height: 96px;
+  margin-bottom: 20px !important;
+}
+.div{
+  border: 1px solid rgb(192, 187, 187);
+  margin-top: 40px;
+  overflow: hidden;
+}
+.mx-8{
+  margin-right: 192px !important;
+}
+.site-layout-content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+}
+#components-layout-demo-top .logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.3);
+}
+.ant-row-rtl #components-layout-demo-top .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
+.card{
+  box-shadow: 2px 2px 2px 2px rgb(95, 95, 95) !important;
+}
+/* 
+.meta:hover{
+  background-color: rgb(245, 245, 4);
+}
+.meta{
+  background-color: rgb(145, 145, 34);
+
+} */
